@@ -1,5 +1,7 @@
 # Air Horn
 
+https://developers.google.com/web/fundamentals/codelabs/offline/#install_the_site_assets
+
 A sample web app that lets you use your site as an airhorn. 
 
 It demonstrates simple offline usage combined with simple audio looping via web audio.
